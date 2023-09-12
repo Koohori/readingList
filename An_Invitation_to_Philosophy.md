@@ -89,3 +89,31 @@
 		- Science does not do anything - Scientists do. 
 
 - Perception
+	- Realism
+	- Common Sense Realism
+	- Contemporary Realism
+	- Epistemological Dualism
+	- Phenomenalism
+	- Subjective Idealism
+	- Idealism
+- Truth
+	- Correspondence
+		- true if it corresponds to objective reality, as it independently exists
+	- Pragmatic
+		- what works is true
+		- Truth defined only in terms of consequences
+		- true if accurately describes a situation or relationship on which a person can act in order to achieve a desired result
+	- Coherence
+		- truth is property exhibited by a related group of consistent propositions
+		- true if it is totally integrated with other statements or propositions already established as part of the whole system
+- Epistemology
+	- Empiricism
+		- sense
+		- evidence
+		- induction 
+	- Scientific method
+		- rigorous testing
+	- Rationalism
+		- mind
+		- reason
+		- deduction
