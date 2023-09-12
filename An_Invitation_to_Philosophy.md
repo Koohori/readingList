@@ -31,4 +31,61 @@
 	- widespread agreement on definitions of basic concepts or rules
 	- such as 'all humans being are mortal (premise), Socrates is a human being (premise), Therefore, Socrates is mortal (conclusion)'
 	- typically analytic
+- Informal Fallacies - When there is an error in logical reasoning
+	- Amphiboly (Syntactical ambiguity)
+		- form of confustion that results when grammatical construction of a stement makes the meaning unclear
+		- 'Archivists examined an original flag that had led Union solders into battle at the Civil War Library in Philadelphia'
+		- grammer is confusing. Whether the flag was examined at the library or the soldiers battled at the Library
+	- Sementical Ambuiguity
+		- form of confution that results when a word or phrase can have two or more different meanings
+		- 'Trustees asked secruity personnel to stop drinking on campus'
+		- grammer is confusing. Whether sking security guards themselves to avoid drinking or to stop others from drinking
+	- Equivocation
+		- form of semantical ambiguity
+		- Establishing a conclusion by using a word in two different senses in the same argument
+		- 'Anyone who is considered old enough to join the army and fight for his country is a mature person; and anyone who votes must be mature too. So, anyone mature enough to fight is mature enough to vote.'
+		- term 'mature' means two diferent things
+	- Post hoc fallacy
+		- incorrect assumption that merely because two events occur together or in a time sequence
+		- 'Evelyn carried a rabbit's foot, so naturally she won the race'
+		- argument misses other factors that may have contributed to Evelyn winning the race
+	- False dilemma
+		- assumption is improperly made that an issue has only two sides or that there are only two alternative choices in a situation
+		- People are either Christians or atheists
+		- What about other religions?
+	- Argumentum ad hominem
+		- faulty assumption that if you discredit the person, you therby discredit his or her argument
+		- 'What can he know about patriotism? He speaks with a foreign accent'
+		- How does someone's level of patriotism correlate with their accent?
+	- Begging the question
+		- We beg the question when the argument is based on the very conclusion we are trying prove
+		- Argument merely moves in a circle and says the same thing twice
+		- 'Learning is important because everyone should acquire knowledge'
+		- repeating the same thing does not prove a point
+	- Hypothesis contrary to fact
+		- very questionable claim that one can know eith certainty what would have happened if a past event or condition had been different then what actually happened
+		- 'If my father had been rich, I would be a successful surgeon today'
+	- Straw man
+		- misrepresenting a statement or an argument, or substituing another one, in order to attack the original statement or argument more easily
+		- 'Go ahead and build your nuclear power plant. I guess you don't care about the environment'
+		- Categorizing incorrectly and alternatively punishing an argument that was not made about that caring of the environment
+	- False obversion
+		- miuse of contrasts and opposites
+		- Children learn easily; therefore, adults learn with difficulty'
+		- Just because adults are opposite of children, does not mean they learn slower automatically
+	- Tesimonial
+		- strategy of directing attention to a well-known or attractive person in order to create a positive image
+		- 'I always buy Bulgarian motor cars because on TV my favorite movie star says they are well made'
+		- creating impression through a celebrity does not logically prove an argument
+	- Bandwagon:
+		- appealing to common practice in order to get others to do something or to share a same point of view
+		- 'Chew Bozo Bubble Gum - ten million people can't be wrong'
+		- more people believing something or doing activities does not mean they are intrinsically correct
+	- Reification
+		- practice of treating a word or a concept as if it were a thing with life or power of its own
+		- 'Science will turn all of into robots'
+		- gives a personalized life and power to what is usually regarded as a collective concept
+		- makes an object or a foce out of something that is usually general or abstract
+		- Science does not do anything - Scientists do. 
 
+- Perception
