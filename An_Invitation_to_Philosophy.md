@@ -1,0 +1,34 @@
+# An Invitation to Philosophy
+
+- Definition
+	- love of wisdom
+	- rigorous attempt to understand
+	- persistent and organized attempt to see life steadily and see it whole
+- Fields of Philosophy
+	- Epistemology - how do we know? 
+	- Metaphysics - what is real?
+	- Axiology / values - what is good, right or beautiful?
+- Two approaches to philosophy
+	- historical 
+		- usually studied in chronological order
+		- contributions of acknowledged philosophers
+	- issue
+		- start with issues or questions
+		- based on conviction that interest in philosphy inquiry can be excited more readily at the very outset 
+- Two kinds of philosophy
+	- Critical 
+		- analyze statements and identify precise meaning or mutural relations among concepts
+		- proceed beyond fuzzy meanings or unreliable knowledge
+		- language must be precise and clear
+	- Speculative
+		- endeavour to frame a coherent, logical, necessary system of general ideas in terms of which every element of our experiences can be interpreted 
+		- most Western philosophers
+- Inductive reasoning
+	- process of drawing conclusions from specific evidence
+	- conclusions are typically drawn from observation of particular caes
+	- such as 'first grape in this bunch tasted sour (premise), second grape in this bunch tasted sour (premise), third grape in this bunch tastes sour (premise), hence next grape in this bunch will also taste sour (conclusion)
+- Deductive reasoning
+	- widespread agreement on definitions of basic concepts or rules
+	- such as 'all humans being are mortal (premise), Socrates is a human being (premise), Therefore, Socrates is mortal (conclusion)'
+	- typically analytic
+
